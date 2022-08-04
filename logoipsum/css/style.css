@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1420px;
+    height: 145px;
+    margin: 20px auto;
+    padding: 0 10px;
+    background-color: blueviolet;
+}
+
+.header__top {}
